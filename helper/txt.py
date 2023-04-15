@@ -9,13 +9,7 @@ class mr(object):
 
     ABOUT_TXT = """
 ╭───────────⍟
-├🤖 My Name is : {}
-├👑 CHANNEL : <a href=https://t.me/af_updates>WebXBots</a> 
-├📕 LIBRARY : <a href=https://github.com/pyrogram>Pyrogram</a>
-├✏️ LANGUAGE : <a href=https://www.python.org>Python 3</a>
-├💾 DATABASE : <a href=https://cloud.mongodb.com>MongoDB</a>
-├🌀 𝚂𝙴𝚁𝚅𝙴𝚁 : <a href=https://www.oracle.com/cloud/>Render</a>
-├📊 BUILD-STATUS : Python v3.10.5              
+├🤖 My Name is : {}              
 ╰───────────────⍟
                                 """
     HELP_TXT = """
