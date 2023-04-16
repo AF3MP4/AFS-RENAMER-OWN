@@ -21,3 +21,5 @@ START_PIC = os.environ.get("START_PIC", "https://graph.org/AF-THE-RENAMER-04-15"
 ADMIN = [int(admin) if id_pattern.search(admin) else admin for admin in os.environ.get('ADMIN', '1814803065').split()]
 
 PORT = os.environ.get("PORT", "8080")
+
+LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1001593625135"))
